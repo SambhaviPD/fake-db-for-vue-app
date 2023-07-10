@@ -1,6 +1,6 @@
-{ 
-    "events": [
-    {
+{
+    "events" : [
+  {
     id: 7890883,
     category: 'animal welfare',
     title: 'Cat adoption day',
@@ -13,7 +13,7 @@
   },
   {
     id: 7890884,
-    category: 'tree welfare',
+    category: 'animal welfare',
     title: 'Community Gardening',
     description: 'Find your new kitty friend here',
     location: 'Meow town',
@@ -24,7 +24,7 @@
   },
   {
     id: 7890885,
-    category: 'beach welfare',
+    category: 'animal welfare',
     title: 'Beach cleanup',
     description: 'Find your new kitty friend here',
     location: 'Meow town',
@@ -33,5 +33,5 @@
     petsAllowed: true,
     organizer: 'Heidi William'
   },
-    ]
+]
 }
