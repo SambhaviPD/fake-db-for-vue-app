@@ -1,0 +1,33 @@
+{
+    id: 7890883,
+    category: 'animal welfare',
+    title: 'Cat adoption day',
+    description: 'Find your new kitty friend here',
+    location: 'Meow town',
+    date: 'July 12 2023',
+    time: '13:00',
+    petsAllowed: true,
+    organizer: 'Heidi William'
+  },
+  {
+    id: 7890884,
+    category: 'tree welfare',
+    title: 'Community Gardening',
+    description: 'Find your new kitty friend here',
+    location: 'Meow town',
+    date: 'July 21 2023',
+    time: '09:00',
+    petsAllowed: true,
+    organizer: 'Heidi William'
+  },
+  {
+    id: 7890885,
+    category: 'beach welfare',
+    title: 'Beach cleanup',
+    description: 'Find your new kitty friend here',
+    location: 'Meow town',
+    date: 'July 30 2023',
+    time: '06:00',
+    petsAllowed: true,
+    organizer: 'Heidi William'
+  },
