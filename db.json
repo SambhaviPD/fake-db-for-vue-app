@@ -1,5 +1,6 @@
 { 
     "events": [
+    {
     id: 7890883,
     category: 'animal welfare',
     title: 'Cat adoption day',
